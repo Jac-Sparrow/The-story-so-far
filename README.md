@@ -27,9 +27,10 @@ Others:
 # Issues Highlight
 - [Netting Bug in E4626.sol commit Function](https://github.com/sherlock-audit/2025-04-burve-judging/issues/490)
 - [Incorrect Handling of `msg.value` in `ModuleManager#fallback()`](https://codehawks.cyfrin.io/c/2024-07-biconomy/s/168)
+- 
 - [Incorrect Handling of Negative Tick Deltas in TWAP Calculation](https://github.com/code-423n4/2024-05-predy-findings/issues/90)
 - [Incorrect Mapping Update During Nominee Removal Leads to Inconsistent State](https://github.com/code-423n4/2024-05-olas-findings/issues/74)
-- My first solo finding in the Blend V2 Audit (Stellar rust) - Report not public yet(
+- My first solo finding in the [Blend V2 Audit](https://code4rena.com/audits/2025-02-blend-v2-audit-certora-formal-verification) (Stellar rust) - Report not public yet(
 
 # My public audit profiles
 - [Code4rena](https://code4rena.com/@Sparrow)
