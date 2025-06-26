@@ -15,6 +15,8 @@ Rust Ecosystems:
 - Cosmos (CosmWasm)
 
 - Solana
+  
+Others:
 
 - Go 
 
