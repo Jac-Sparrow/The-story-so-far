@@ -1,5 +1,7 @@
 # Introduction
-I'm Sparrow, a dedicated security researcher who entered the blockchain security space in mid-2024. Through relentless learning and hands-on auditing, I've rapidly honed my skills to uncover critical vulnerabilities. To date, I've discovered 35+ confirmed high/medium-severity issues in public audits, with additional findings set to be disclosed soon. My work ensures protocols operate as intended—securely and efficiently.
+I’m Sparrow—a driven security researcher who plunged into blockchain security in mid-2024 with one core belief: true growth happens at the intersection of curiosity and collaboration. While I’ve uncovered 35+ high/medium-severity vulnerabilities to date (and counting), my greatest strength lies in proactively seeking challenges that stretch my limits. I thrive when working alongside researchers better than myself, transforming complex problems into masterclasses in growth. Every audit is a chance to absorb new techniques, sharpen my approach, and contribute to collective security excellence.
+
+"Securing code requires humility—knowing there’s always more to learn, and someone who can teach it."
 
 # Technical Stack
 ## Core Expertise
