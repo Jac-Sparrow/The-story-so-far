@@ -14,11 +14,10 @@ It’s how I approach them.
 - Like a salesperson turned bodyguard: I see beyond code to how exploits shatter trust
 - With a hustler’s hunger: I chase challenges that scare me
 
-Now?
-I’m all-in on security—grinding daily to level up.
-And I’m fascinated by how my sales-honed instincts will fortify this new path.
+**Now I'm ready to combine both worlds**—using deep security expertise to help protocols make informed decisions about protecting their users and assets.
+My technical skills validate the risks. My sales background helps clients act on them.
 
-"Securing code requires humility—knowing there’s always more to learn, and someone who can teach it."
+"The best security conversations happen when technical depth meets business clarity—that's where real protection begins."
 
 # Technical Stack
 ## Core Expertise
@@ -45,7 +44,7 @@ Others:
 - [Netting Bug in E4626.sol commit Function](https://github.com/sherlock-audit/2025-04-burve-judging/issues/490)
 - [Signature Replay Vulnerability in Art Creation](https://github.com/code-423n4/2024-08-phi-findings/issues/83)
 - [Incorrect Handling of `msg.value` in `ModuleManager#fallback()`](https://codehawks.cyfrin.io/c/2024-07-biconomy/s/168)
-- [Incorrect Handling of Negative Tick Deltas in TWAP Calculation](https://github.com/code-423n4/2024-05-predy-findings/issues/90)
+- [Transaction Double-Counting in New Epochs](https://cantina.xyz/code/50d38b86-80a0-49af-9df8-70d7d601b7d7/findings?finding=442)
 - [Incorrect Mapping Update During Nominee Removal Leads to Inconsistent State](https://github.com/code-423n4/2024-05-olas-findings/issues/74)
 - My first solo finding in the [Blend V2 Audit](https://code4rena.com/audits/2025-02-blend-v2-audit-certora-formal-verification) (Stellar rust) - Report not public yet(
 
