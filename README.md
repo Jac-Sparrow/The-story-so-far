@@ -8,7 +8,7 @@ I spent years in sales—talking to clients, solving their headaches, and learni
 Then in 2024, I discovered Web 3 security.
 By 2025, I took the leap: left sales and dove headfirst into auditing smart contracts.
 
-Since then, I’ve uncovered 35+ high/medium-severity vulnerabilities—but my greatest strength isn’t just finding bugs:
+Since then, I’ve uncovered 40+ high/medium-severity vulnerabilities—but my greatest strength isn’t just finding bugs:
 
 It’s how I approach them.
 - Like a salesperson turned bodyguard: I see beyond code to how exploits shatter trust
