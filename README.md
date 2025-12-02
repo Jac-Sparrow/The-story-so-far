@@ -6,13 +6,10 @@
 I spent years in sales—talking to clients, solving their headaches, and learning how real people interact with systems. It taught me to listen deeply, communicate risks plainly, and fight for trust.
 
 Then in 2024, I discovered Web 3 security.
-By 2025, I took the leap: left sales and dove headfirst into auditing smart contracts.
+By 2025, I took the leap and dove headfirst into auditing smart contracts.
 
-Since then, I’ve uncovered 40+ high/medium-severity vulnerabilities—but my greatest strength isn’t just finding bugs:
+Since then, I’ve uncovered 40+ high/medium-severity vulnerabilities. I also work with a web3 company in a part time sales role 
 
-It’s how I approach them.
-- Like a salesperson turned bodyguard: I see beyond code to how exploits shatter trust
-- With a hustler’s hunger: I chase challenges that scare me
 
 **Now I'm ready to combine both worlds**—using deep security expertise to help protocols make informed decisions about protecting their users and assets.
 My technical skills validate the risks. My sales background helps clients act on them.
