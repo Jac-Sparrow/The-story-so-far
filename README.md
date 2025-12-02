@@ -38,12 +38,13 @@ Others:
 - Cairo (Starknet)
 
 # Issues Highlight
+- My first solo finding in the [Blend V2 Audit](https://code4rena.com/audits/2025-02-blend-v2-audit-certora-formal-verification) (Stellar rust) - [Report](https://solodit.cyfrin.io/issues/m-15-edge-case-breaks-apr-cap-calculation-and-leads-to-excessive-fee-extraction-from-the-pool-code4rena-blend-blend-git)
 - [Netting Bug in E4626.sol commit Function](https://github.com/sherlock-audit/2025-04-burve-judging/issues/490)
 - [Signature Replay Vulnerability in Art Creation](https://github.com/code-423n4/2024-08-phi-findings/issues/83)
 - [Incorrect Handling of `msg.value` in `ModuleManager#fallback()`](https://codehawks.cyfrin.io/c/2024-07-biconomy/s/168)
 - [Transaction Double-Counting in New Epochs](https://cantina.xyz/code/50d38b86-80a0-49af-9df8-70d7d601b7d7/findings?finding=442)
 - [Incorrect Mapping Update During Nominee Removal Leads to Inconsistent State](https://github.com/code-423n4/2024-05-olas-findings/issues/74)
-- My first solo finding in the [Blend V2 Audit](https://code4rena.com/audits/2025-02-blend-v2-audit-certora-formal-verification) (Stellar rust) - Report not public yet(
+
 
 # My public audit profiles
 - [Code4rena](https://code4rena.com/@Sparrow)
