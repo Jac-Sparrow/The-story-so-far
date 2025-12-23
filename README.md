@@ -54,6 +54,6 @@ Others:
 
 # Connect
 - Discord: @sparrow_jac
-- Telegram: @sparrow_369
-- Email: captsparrowjac@gmail.com
+- [Telegram](https://t.me/sparrow_wb3)
+- [Email](captsparrowjac@gmail.com)
 - [X](https://x.com/captsparrowjac)
