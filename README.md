@@ -8,34 +8,23 @@ I spent years in sales—talking to clients, solving their headaches, and learni
 Then in 2024, I discovered Web 3 security.
 By 2025, I took the leap and dove headfirst into auditing smart contracts.
 
-Since then, I’ve uncovered 40+ high/medium-severity vulnerabilities. I also work with a web3 company in a part time sales role 
-
-
-**Now I'm ready to combine both worlds**—using deep security expertise to help protocols make informed decisions about protecting their users and assets.
-My technical skills validate the risks. My sales background helps clients act on them.
-
-"The best security conversations happen when technical depth meets business clarity—that's where real protection begins."
+Since then, I’ve uncovered 45+ high/medium-severity vulnerabilities. I also work with a web3 company in a part time sales role 
 
 # Technical Stack
 ## Core Expertise
-EVM Chains: Solidity
+- Solidity
+- Rust (Solana, Stellar)
 
 ## Developing Proficiency
-Rust Ecosystems:
-
-- Stellar (Soroban smart contracts)
-
-- Cosmos (CosmWasm)
-
-- Solana
-  
-Others:
 
 - Go 
 
 - Move 
 
 - Cairo (Starknet)
+
+## Zero-Knowledge Proofs — Applied Learning
+- [Fundamentals of Zero-Knowledge Proofs (ZKPs)](https://profiles.cyfrin.io/u/sparrow/achievements/fundamentals-of-zero-knowledge-proofs)
 
 # Issues Highlight
 - My first solo finding in the [Blend V2 Audit](https://code4rena.com/audits/2025-02-blend-v2-audit-certora-formal-verification) (Stellar rust) - [Report](https://solodit.cyfrin.io/issues/m-15-edge-case-breaks-apr-cap-calculation-and-leads-to-excessive-fee-extraction-from-the-pool-code4rena-blend-blend-git)
