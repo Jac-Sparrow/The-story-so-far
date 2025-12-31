@@ -1,14 +1,9 @@
 # Introduction
 **Hi, I’m Sparrow** 👋
 
-**My story starts in sales...**
+**Smart Contract Security Auditor**
 
-I spent years in sales—talking to clients, solving their headaches, and learning how real people interact with systems. It taught me to listen deeply, communicate risks plainly, and fight for trust.
-
-Then in 2024, I discovered Web 3 security.
-By 2025, I took the leap and dove headfirst into auditing smart contracts.
-
-Since then, I’ve uncovered 45+ high/medium-severity vulnerabilities. I also work with a web3 company in a part time sales role 
+45+ high/medium-severity vulnerabilities identified across Solidity, Rust, and Go smart contracts.
 
 # Technical Stack
 ## Core Expertise
@@ -25,6 +20,7 @@ Since then, I’ve uncovered 45+ high/medium-severity vulnerabilities. I also wo
 
 ## Zero-Knowledge Proofs — Applied Learning
 - [Fundamentals of Zero-Knowledge Proofs (ZKPs)](https://profiles.cyfrin.io/u/sparrow/achievements/fundamentals-of-zero-knowledge-proofs)
+- [Noir Programming and ZK Circuits](https://profiles.cyfrin.io/u/sparrow/achievements/noir-programming-and-zk-circuits)
 
 # Issues Highlight
 - My first solo finding in the [Blend V2 Audit](https://code4rena.com/audits/2025-02-blend-v2-audit-certora-formal-verification) (Stellar rust) - [Report](https://solodit.cyfrin.io/issues/m-15-edge-case-breaks-apr-cap-calculation-and-leads-to-excessive-fee-extraction-from-the-pool-code4rena-blend-blend-git)
