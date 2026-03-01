@@ -3,7 +3,7 @@
 
 **Smart Contract Security Auditor**
 
-45+ high/medium-severity vulnerabilities identified across Solidity, Rust, and Go smart contracts.
+50+ high/medium-severity vulnerabilities identified so far
 
 # Technical Stack
 ## Core Expertise
