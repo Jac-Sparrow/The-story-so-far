@@ -3,7 +3,7 @@
 
 **Smart Contract Security Auditor**
 
-50+ high/medium-severity vulnerabilities identified so far
+45+ high/medium-severity vulnerabilities identified so far
 
 # Technical Stack
 ## Core Expertise
