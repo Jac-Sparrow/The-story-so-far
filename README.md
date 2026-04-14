@@ -1,21 +1,20 @@
 # Introduction
 **Hi, I’m Sparrow** 👋
 
-**Smart Contract Security Auditor**
+**Smart Contract Security Researcher**
 
-45+ high/medium-severity vulnerabilities identified so far
+- 50+ confirmed high and medium severity findings
+- Multiple podium finishes and consistent top 10 placements
+- Experience across Ethereum, Solana, and Stellar ecosystems
 
 # Technical Stack
 ## Core Expertise
 - Solidity
 - Rust (Solana, Stellar)
 
-## Developing Proficiency
-
+## Expanding Into
 - Go 
-
 - Move 
-
 - Cairo (Starknet)
 
 ## Zero-Knowledge Proofs — Applied Learning
