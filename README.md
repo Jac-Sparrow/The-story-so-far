@@ -22,12 +22,13 @@
 - [Noir Programming and ZK Circuits](https://profiles.cyfrin.io/u/sparrow/achievements/noir-programming-and-zk-circuits)
 
 # Issues Highlight
-- My first solo finding in the [Blend V2 Audit](https://code4rena.com/audits/2025-02-blend-v2-audit-certora-formal-verification) (Stellar rust) - [Report](https://solodit.cyfrin.io/issues/m-15-edge-case-breaks-apr-cap-calculation-and-leads-to-excessive-fee-extraction-from-the-pool-code4rena-blend-blend-git)
-- [Netting Bug in E4626.sol commit Function](https://github.com/sherlock-audit/2025-04-burve-judging/issues/490)
-- [Signature Replay Vulnerability in Art Creation](https://github.com/code-423n4/2024-08-phi-findings/issues/83)
-- [Incorrect Handling of `msg.value` in `ModuleManager#fallback()`](https://codehawks.cyfrin.io/c/2024-07-biconomy/s/168)
-- [Transaction Double-Counting in New Epochs](https://cantina.xyz/code/50d38b86-80a0-49af-9df8-70d7d601b7d7/findings?finding=442)
-- [Incorrect Mapping Update During Nominee Removal Leads to Inconsistent State](https://github.com/code-423n4/2024-05-olas-findings/issues/74)
+| # | Title | Protocol | Language | Report |
+|---|-------|----------|----------|--------|
+| 1 | Edge Case Breaks APR Cap Calculation and Leads to Excessive Fee Extraction (Solo Finding) | Blend V2 | Stellar Rust | [Report](https://solodit.cyfrin.io/issues/m-15-edge-case-breaks-apr-cap-calculation-and-leads-to-excessive-fee-extraction-from-the-pool-code4rena-blend-blend-git) |
+| 2 | Transaction Double-Counting in New Epochs | Solaxy | Solana Rust | [Report](https://cantina.xyz/code/50d38b86-80a0-49af-9df8-70d7d601b7d7/findings?finding=442) |
+| 3 | Netting Bug in E4626.sol commit Function | Burve | Solidity | [Report](https://github.com/sherlock-audit/2025-04-burve-judging/issues/490) |
+| 4 | Incorrect Handling of msg.value in ModuleManager fallback() | Biconomy | Solidity | [Report](https://codehawks.cyfrin.io/c/2024-07-biconomy/s/168) |
+| 5 | Incorrect Mapping Update During Nominee Removal Leads to Inconsistent State | Olas | Solidity | [Report](https://github.com/code-423n4/2024-05-olas-findings/issues/74) |
 
 
 # My public audit profiles
